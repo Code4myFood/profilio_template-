@@ -1,3 +1,3 @@
-# List of template for CV
+#List of CV template
 
-the App.js is for running the server to host the website, extract the html and the public in the same directory as the App.js to check it out!
+Various of one page profilio to use
